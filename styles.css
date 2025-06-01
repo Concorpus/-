@@ -1,3 +1,25 @@
 .ccp {
   font-family: 'Poppins','Noto serif SC';
 }
+
+/* 首页横幅导航栏 */
+.ccp-list {
+    background: #ffffff; 
+    border-top: 2px solid #505050; 
+    border-bottom: 2px solid #505050; 
+    text-align: center; 
+    padding: 15px 0px 15px 0px; 
+    font-size: 14px;
+}
+
+.ccp-list a {  
+    background:#ffffff;
+    padding:8px;
+    border-radius:3px;
+}
+
+.ccp-list a:hover {
+    background: #e0e0e0;
+    padding:8px;
+    border-radius:3px;
+}
